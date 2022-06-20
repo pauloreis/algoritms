@@ -1,4 +1,4 @@
-package easy;
+package easy.generaterandonnumbers;
 
 // Gerar números sequenciais
 // Deve-se receber o parametro de quantos periodos existirão
@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.Random;
 
-public class GenerateRandonNumbers {
+public class Test {
 
     private static final Long ESCALA = 1L;
     private static final Long QTD_NUMBERS = 10L * ESCALA;
