@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©æê’
+h
+java:S3655"FCall "max.isPresent()" or "!max.isEmpty()" before accessing the value.(ö‘çùþÿÿÿÿ8†ìõ’˜0
+c
+java:S3655"FCall "min.isPresent()" or "!min.isEmpty()" before accessing the value.(’“ŽŠ8åË÷’˜0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö‘çùþÿÿÿÿ8“Žõ’˜0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’“ŽŠ8Ÿ®÷’˜0

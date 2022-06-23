@@ -1,0 +1,12 @@
+
+^
+java:S1854"CRemove this useless assignment to local variable "declaredFields1".(ÍŽ¦®øÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(€è±«þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢¶ÁÞüÿÿÿÿ
+O
+java:S1481"4Remove this unused "declaredFields1" local variable.(ÍŽ¦®øÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‹¡Ïó
+U	java:S106""9Replace this use of System.out or System.err by a logger.(øè×Ó8–„ÒÑ”0
+S
+java:S1128"8Remove this unused import 'medium.challenge1.model.One'.(ô¾ÓŸþÿÿÿÿ
